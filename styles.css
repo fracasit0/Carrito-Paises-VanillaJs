@@ -1,0 +1,27 @@
+body {
+  background-color: lightslategray;
+}
+
+
+img {
+    height: 200px;
+    object-fit: cover;
+}
+
+h5, h4 {
+    font-weight: bold;
+}
+
+.card {
+    height: 360px;
+}
+
+.logo {
+    width: 17px;
+    height: 17px;
+    color: white;
+}
+
+
+
+
